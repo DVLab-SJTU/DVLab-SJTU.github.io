@@ -1,0 +1,9 @@
+# hugo server --minify --themesDir ... --baseURL=http://0.0.0.0:1313/theme/hugo-book/
+
+baseURL = 'http://0.0.0.0:1313/'
+title = 'Hugo Book'
+theme = 'hugo-book'
+
+# Book configuration
+disablePathToLower = true
+enableGitInfo = true
